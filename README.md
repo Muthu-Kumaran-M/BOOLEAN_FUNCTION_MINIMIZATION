@@ -52,7 +52,7 @@ and g2(t,x,y);
 and g3(u,w,z);
 or g4(f2,s,t,u);
 endmodule
-Developed by: Harini S (212223240048)
+Developed by: Muthu Kumaran M (212224245002)
 
 ~~~
 
